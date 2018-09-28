@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361214966256",
+    "firebase_url": "https://study-1cbba.firebaseio.com",
+    "project_id": "study-1cbba",
+    "storage_bucket": "study-1cbba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361214966256:android:3b7ba6d4e75ee90a",
+        "android_client_info": {
+          "package_name": "zin.byh.org.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361214966256-57cubhl13iv863nlkk9f1sukedd3lals.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdn6GfmhKhsCVroDyFEd2dR4nmoZZLBTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
